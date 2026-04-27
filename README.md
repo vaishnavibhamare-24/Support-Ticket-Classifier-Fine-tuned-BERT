@@ -206,8 +206,8 @@ macro avg         0.91    0.89      0.90     5500
 **Vaishnavi Bhamare**
 Master's in Advanced Data Analytics — University of North Texas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vish240102)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/vaishnavibhamare)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([(https://github.com/vaishnavibhamare-24)])
 
 ---
 
@@ -215,6 +215,4 @@ Master's in Advanced Data Analytics — University of North Texas
 
 MIT License — free to use, modify, and distribute.
 
----
 
-*This project is part of a broader ML portfolio including an [American Airlines Flight Delay Predictor](#) using classical ML on real flight + weather data.*
