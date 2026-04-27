@@ -206,8 +206,6 @@ macro avg         0.91    0.89      0.90     5500
 **Vaishnavi Bhamare**
 Master's in Advanced Data Analytics — University of North Texas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/vaishnavibhamare)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([(https://github.com/vaishnavibhamare-24)])
 
 ---
 
